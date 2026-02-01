@@ -92,12 +92,18 @@ Pipeline performs:
 
 Screenshots proving implementation:
 
-| Feature | Proof |
--------|-------
-Branch Protection Rules | ![screenshots/branch-protection-main.png] |
-CI Pipeline Success | ![screenshots/ci-pipeline-success.png] |
-Pull Request Checks | ![screenshots/pr-checks.png] |
-Protected Branch Error | ![screenshots/protected-branch-error.png] |
+Branch Protection Rules
+![alt text](Screenshots/Protection-main-rulesets-1.png)
+
+CI Pipeline Success
+![alt text](Screenshots/CI-pipepline.png)
+
+Pull Request Checks
+![alt text](Screenshots/PR-checks.png)
+
+Protected Branch Error
+![alt text](Screenshots/Protected-main-branch-error.png)
+
 
 ---
 

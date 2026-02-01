@@ -94,10 +94,10 @@ Screenshots proving implementation:
 
 | Feature | Proof |
 -------|-------
-Branch Protection Rules | screenshots/branch-protection-main.png |
-CI Pipeline Success | screenshots/ci-pipeline-success.png |
-Pull Request Checks | screenshots/pr-checks.png |
-Protected Branch Error | screenshots/protected-branch-error.png |
+Branch Protection Rules | ![screenshots/branch-protection-main.png] |
+CI Pipeline Success | ![screenshots/ci-pipeline-success.png] |
+Pull Request Checks | ![screenshots/pr-checks.png] |
+Protected Branch Error | ![screenshots/protected-branch-error.png] |
 
 ---
 
@@ -105,7 +105,7 @@ Protected Branch Error | screenshots/protected-branch-error.png |
 
 
 
-git-devops-portfolio-project/
+gitops-repository-management/
 │
 ├── .github/workflows/
 │ └── ci.yml
